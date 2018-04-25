@@ -4,7 +4,7 @@ Sun Core staging tree 0.12.1
 https://www.Suncore.net
 
 
-What is Qbic?
+What is Sun?
 ----------------
 
 Sun is an experimental new digital currency that enables anonymous, instant
